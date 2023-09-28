@@ -4,7 +4,7 @@
 
 This is a basic web-based calculator application built using HTML, CSS, and JavaScript. It allows you to perform simple arithmetic operations directly in your web browser.
 
-![Calculator Preview](calculator-preview.png)
+![Calculator Preview](https://manishchandrakar.github.io/Calculator/Index.html)
 
 ## Features
 
